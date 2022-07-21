@@ -1,5 +1,5 @@
 # 💫About Me :
-My name is Leonardo Guedes, I am a back-end developer and I have good knowledge of Python, Django e Flask. 
+My name is Leonardo Guedes, I am a back-end developer and I have good knowledge of Python and Django. 
 I am in the process of permanent evolution. The road can close to anything but evolution and learning.
 I would love to collaborate with other projects or frameworks!
 
