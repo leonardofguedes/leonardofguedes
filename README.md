@@ -1,7 +1,7 @@
 # 💫About Me :
-My name is Leonardo Guedes. I am a full-stack developer with extensive experience and strong knowledge in using Django and Flask for back-end development, and React and Vue.js for front-end development. I am passionate about continuous learning and applying new technologies in practical, innovative ways.
+My name is Leonardo Guedes. I am a full-stack developer with extensive experience and strong knowledge in using Python (Django, Fast API, Flask and others) for back-end development, and Javascript for front-end development. I am passionate about continuous learning and applying new technologies in practical, innovative ways.
 
-Meu nome é Leonardo Guedes. Sou um desenvolvedor full-stack com vasta experiência e sólidos conhecimentos em Django e Flask para desenvolvimento back-end, além de React e Vue.js para o front-end. Sou apaixonado por aprendizado contínuo e pela aplicação de novas tecnologias de maneira prática e inovadora.
+Meu nome é Leonardo Guedes. Sou um desenvolvedor full-stack com vasta experiência e sólidos conhecimentos em Python para desenvolvimento back-end, além de Javascript para o front-end. Sou apaixonado por aprendizado contínuo e pela aplicação de novas tecnologias de maneira prática e inovadora.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leonardofguedes/) 
